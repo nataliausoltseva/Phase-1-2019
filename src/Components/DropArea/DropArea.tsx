@@ -70,7 +70,7 @@ export default class DropArea extends React.Component<IProps, IState>{
         return (
             <div className="cont">
                 <div className="centreText">
-                    <div className="dropZone">
+                    <div >
                         <ReactDropzone accept='image/*' onDrop={this.state.dropzone} style={{ position: "relative" }}>
                             <div className="dropZoneText">
                                 {

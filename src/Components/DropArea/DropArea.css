@@ -6,28 +6,19 @@ h1 {
   font-size: 150px;
 }
 
-.dropZone {
-  margin-top: 20px;
-  margin-left: 35%;
-  margin-right: 35%;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  height: 51vh;
-  background-color: #202125;
-  border-radius: 20px;
-  color: white;
-}
-
 .image1 {
-  max-width: 100%;
-  height: 50vh;
   border-radius: 5%;
+  padding-top: 5%;
+  width: 100%;
+  max-width: 300px;
+  height: auto;
 }
 
 .result {
   color: white;
   font-size: 20px;
-  margin-left: 45%;
+  text-align: center;
+  padding-top: 5%
 }
 
 .dropZoneText {
@@ -37,3 +28,4 @@ h1 {
   flex-direction: column;
   text-align: center;
 }
+
