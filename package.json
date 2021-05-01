@@ -4,11 +4,19 @@
   "private": true,
   "dependencies": {
     "@types/react-dropzone": "^4.2.0",
+    "elliptic": "^6.5.4",
+    "is-svg": "^4.3.1",
+    "node-notifier": "^9.0.1",
     "react": "^16.8.4",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.4",
     "react-dropzone": "^4.3.0",
     "react-loader-spinner": "^2.3.0",
-    "react-scripts-ts": "3.1.0"
+    "react-scripts-ts": "3.1.0",
+    "sockjs": "^0.3.21",
+    "ssri": "^8.0.1",
+    "urijs": "^1.19.6",
+    "y18n": "^5.0.8"
   },
   "scripts": {
     "start": "react-scripts-ts start",
