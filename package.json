@@ -5,7 +5,9 @@
   "dependencies": {
     "@types/react-dropzone": "^4.2.0",
     "elliptic": "^6.5.4",
+    "hosted-git-info": "^4.0.2",
     "is-svg": "^4.3.1",
+    "lodash": "^4.17.21",
     "node-notifier": "^9.0.1",
     "react": "^16.8.4",
     "react-dev-utils": "^11.0.4",
@@ -16,6 +18,7 @@
     "sockjs": "^0.3.21",
     "ssri": "^8.0.1",
     "urijs": "^1.19.6",
+    "url-parse": "^1.5.1",
     "y18n": "^5.0.8"
   },
   "scripts": {
